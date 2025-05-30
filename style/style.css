@@ -58,7 +58,14 @@ a {max-width:480px;word-wrap: break-word;}
 .mySlides {
   display: none;
 }
-
+.cooldiv
+{
+       height: 4px; 
+          max-width:512px;
+            width:100%; 
+            background-color: var(--color4);
+            margin: auto; 
+        }
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
